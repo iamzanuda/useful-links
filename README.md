@@ -1,6 +1,6 @@
 # A collection of links that may be useful at the beginning of your journey.
 
-## Open source (раздел в стадии доработки и пополнения)
+## Как начать разработку в open source(раздел в стадии доработки и пополнения)
 - [**Zero to Hero: Get started with Open Source Projects**](https://dev.to/ruppysuppy/zero-to-hero-get-started-with-open-source-10b7) - о том, как начать разработку в open source. How to start open source development.
 
 ## Полезные материалы про GitHub и в GitHub (раздел в стадии доработки и пополнения)
