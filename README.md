@@ -7,11 +7,11 @@
 
 
 
-# Как начать разработку в open source (раздел в стадии доработки и пополнения)
+### Как начать разработку в open source (раздел в стадии доработки и пополнения)
 - [**Zero to Hero: Get started with Open Source Projects**](https://dev.to/ruppysuppy/zero-to-hero-get-started-with-open-source-10b7) - о том, как начать разработку в open source. How to start open source development.
 - [**А вот тут опенсорс-приложения для MacOS**](https://github.com/serhii-londar/open-source-mac-os-apps) - список open source приложений для IOS.
 
-# Полезные материалы про GitHub и в GitHub (раздел в стадии доработки и пополнения)
+### Полезные материалы про GitHub и в GitHub (раздел в стадии доработки и пополнения)
 
 - [**Статья от 2ГИС по эффективному использованию GitHub**](https://habr.com/ru/companies/2gis/articles/306166/)
 - [**GitHub Cheat Sheet («Шпаргалка по GitHub»)**](https://github.com/tiimgreen/github-cheat-sheet) - подборка крутых, в том числе скрытых возможностей Git и GitHub.
