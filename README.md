@@ -1,4 +1,7 @@
-# A collection of links that may be useful at the beginning of your journey.
+# A collection of links that may be useful at the beginning of your journey
+
+- [A collection of links that may be useful at the beginning of your journey](#a-collection-of-links-that-may-be-useful-at-the-beginning-of-your-journey)
+    - [Как начать разработку в open source](#Как-начать-разработку-в-open-source)
 
 ## Как начать разработку в open source (раздел в стадии доработки и пополнения)
 - [**Zero to Hero: Get started with Open Source Projects**](https://dev.to/ruppysuppy/zero-to-hero-get-started-with-open-source-10b7) - о том, как начать разработку в open source. How to start open source development.
