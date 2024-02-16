@@ -2,8 +2,8 @@
 
 
 - [A collection of links that may be useful at the beginning of your journey](#a-collection-of-links-that-may-be-useful-at-the-beginning-of-your-journey)
-    - [Как начать разработку в open source](#Как-начать-разработку-в-open-source)
-    - [Полезные материалы про GitHub и в GitHub](#Полезные-материалы-про-GitHub-и-в-GitHub)
+    - [Как начать разработку в open source](##Как-начать-разработку-в-open-source)
+    - [Полезные материалы про GitHub и в GitHub](##Полезные-материалы-про-GitHub-и-в-GitHub)
 
 
 
