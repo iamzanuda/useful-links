@@ -11,7 +11,7 @@
 
 ### Как начать разработку в open source
 
-- [**Zero to Hero: Get started with Open Source Projects**](https://dev.to/ruppysuppy/zero-to-hero-get-started-with-open-source-10b7) - о том, как начать разработку в open source. How to start open source development.
+- [**Zero to Hero: Get started with Open Source Projects**](https://dev.to/ruppysuppy/zero-to-hero-get-started-with-open-source-10b7) - о том, как начать разработку в open source.
 - [**Awesome macOS open source applications**](https://github.com/serhii-londar/open-source-mac-os-apps) - список open source приложений для IOS.
 
 
