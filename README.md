@@ -32,6 +32,7 @@
 
 
 ### Popular questions for technical interviews in Python and Django
+_**Популярные вопросы для технических интервью на Python и Django**_
 
 - [**Хабр: Обширный обзор собеседований по Python. Советы и подсказки**](https://habr.com/ru/articles/439576/)
 - [**Перевод на русский первой части статьи “150+ Python Interview Questions and Answers for Freshers”**](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta)
