@@ -3,7 +3,7 @@
 - [A collection of links that may be useful at the beginning of your journey](#a-collection-of-links-that-may-be-useful-at-the-beginning-of-your-journey)
     - [Как начать разработку в open source](##Как-начать-разработку-в-open-source)
     - [Полезные материалы про GitHub и в GitHub](##Полезные-материалы-про-GitHub-и-в-GitHub)
-    - [Логические задачи с реальных собеседований, с готовыми решениями и без](##Логические-задачи-с-реальных-собеседований,-с-готовыми-решениями-и-без)
+    - [Логические задачи с реальных собеседований, с готовыми решениями и без](##Logical-tasks-with-real-interviews,-with-and-without-ready-made-solutions)
     - [Популярные вопросы для технических интервью на Python и Django](##Popular-questions-for-technical-interviews-in-Python-and-Django)
 
 
@@ -23,7 +23,8 @@
 - **[The Art of Command Line («Искусство обращения с командной строкой»)](https://github.com/jlevy/the-art-of-command-line)** - станьте хозяином командной строки. Обо всём в одном документе.
 
 
-### Логические задачи с реальных собеседований, с готовыми решениями и без
+### Logical tasks with real interviews, with and without ready-made solutions
+_**Логические задачи с реальных собеседований, с готовыми решениями и без**_
 
 - [**Хабр: Дюжина логических задач с собеседований**](https://habr.com/ru/articles/230881/)
 - [**Хабр: Решение задачи о двух мудрецах**](https://habr.com/ru/articles/378593/)
