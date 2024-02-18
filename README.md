@@ -1,19 +1,21 @@
 # A collection of links that may be useful at the beginning of your journey
 
 - [A collection of links that may be useful at the beginning of your journey](#a-collection-of-links-that-may-be-useful-at-the-beginning-of-your-journey)
-    - [Как начать разработку в open source](##Как-начать-разработку-в-open-source)
-    - [Полезные материалы про GitHub и в GitHub](##Полезные-материалы-про-GitHub-и-в-GitHub)
+    - [Как начать разработку в open source](##How-to-start-developing-in-open-source)
+    - [Полезные материалы про GitHub и в GitHub](##Useful-materials-about-GitHub-and-on-GitHub)
     - [Логические задачи с реальных собеседований, с готовыми решениями и без](##Logical-tasks-with-real-interviews,-with-and-without-ready-made-solutions)
     - [Популярные вопросы для технических интервью на Python и Django](##Popular-questions-for-technical-interviews-in-Python-and-Django)
 
 
-### Как начать разработку в open source
+### How to start developing in open source
+_**Как начать разработку в open source**_
 
 - [**Zero to Hero: Get started with Open Source Projects**](https://dev.to/ruppysuppy/zero-to-hero-get-started-with-open-source-10b7) - о том, как начать разработку в open source. How to start open source development.
 - [**Awesome macOS open source applications**](https://github.com/serhii-londar/open-source-mac-os-apps) - список open source приложений для IOS.
 
 
-### Полезные материалы про GitHub и в GitHub
+### Useful materials about GitHub and on GitHub
+_**Полезные материалы про GitHub и в GitHub**_
 
 - [**Статья от 2ГИС по эффективному использованию GitHub**](https://habr.com/ru/companies/2gis/articles/306166/)
 - [**GitHub Cheat Sheet («Шпаргалка по GitHub»)**](https://github.com/tiimgreen/github-cheat-sheet) - подборка крутых, в том числе скрытых возможностей Git и GitHub.
