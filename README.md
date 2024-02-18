@@ -1,12 +1,13 @@
 # A collection of links that may be useful at the beginning of your journey
 
 - [A collection of links that may be useful at the beginning of your journey](#a-collection-of-links-that-may-be-useful-at-the-beginning-of-your-journey)
-    - [Как начать разработку в open source](##How-to-start-developing-in-open-source)
+    - [Как начать разработку в open source](##Как-начать-разработку-в-open-source)
     - [Полезные материалы про GitHub и в GitHub](##Useful-materials-about-GitHub-and-on-GitHub)
     - [Логические задачи с реальных собеседований, с готовыми решениями и без](##Logical-tasks-with-real-interviews,-with-and-without-ready-made-solutions)
     - [Популярные вопросы для технических интервью на Python и Django](##Popular-questions-for-technical-interviews-in-Python-and-Django)
     - [Вопросы по программированию](##Вопросы-по-программированию)
     - [Базы данных](##Базы-данных)
+    - [Тесты](##Тесты)
 
 
 ### Как начать разработку в open source
@@ -55,3 +56,8 @@ _Если вопросов по базам может быть и не очен�
 
 - [**Отличие реляционных от нереляционных.**](https://tproger.ru/translations/sql-nosql-database-models)
 - [**SQL запросы.**](https://habr.com/ru/articles/480838/)
+
+
+### Тесты
+
+- [**Тесты в Python: все основные подходы, плюсы и минусы. Доклад Яндекса.**](https://habr.com/ru/companies/yandex/articles/517266/)
