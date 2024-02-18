@@ -4,7 +4,7 @@
     - [Как начать разработку в open source](##Как-начать-разработку-в-open-source)
     - [Полезные материалы про GitHub и в GitHub](##Полезные-материалы-про-GitHub-и-в-GitHub)
     - [Логические задачи с реальных собеседований, с готовыми решениями и без](##Логические-задачи-с-реальных-собеседований,-с-готовыми-решениями-и-без)
-    - [Популярные вопросы для технических интервью в Python и Django:](Popular-questions-for-technical-interviews-in-Python-and-Django:)
+    - [Popular questions for technical interviews in Python and Django:](Popular-questions-for-technical-interviews-in-Python-and-Django:)
 
 
 ### Как начать разработку в open source:
