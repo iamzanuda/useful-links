@@ -1,9 +1,9 @@
 # A collection of links that may be useful at the beginning of your journey
 
 - [A collection of links that may be useful at the beginning of your journey](#a-collection-of-links-that-may-be-useful-at-the-beginning-of-your-journey)
-    - [Как начать разработку в open source](##Как-начать-разработку-в-open-source)
-    - [Полезные материалы про GitHub и в GitHub](##Полезные-материалы-про-GitHub-и-в-GitHub)
-    - [Логические задачи с реальных собеседований, с готовыми решениями и без](##Логические-задачи-с-реальных-собеседований,-с-готовыми-решениями-и-без)
+    - [Как начать разработку в open source:](##Как-начать-разработку-в-open-source:)
+    - [Полезные материалы про GitHub и в GitHub:](##Полезные-материалы-про-GitHub-и-в-GitHub:)
+    - [Логические задачи с реальных собеседований, с готовыми решениями и без:](##Логические-задачи-с-реальных-собеседований,-с-готовыми-решениями-и-без:)
     - [Popular questions for technical interviews in Python and Django:](##Popular-questions-for-technical-interviews-in-Python-and-Django:)
 
 
