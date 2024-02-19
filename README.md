@@ -1,4 +1,4 @@
-# A collection of links that may be useful at the beginning of your journey
+# A collection of links that may be useful at the beginning of your journey.
 
 - [A collection of links that may be useful at the beginning of your journey](#a-collection-of-links-that-may-be-useful-at-the-beginning-of-your-journey)
     - [Как начать разработку в open source](##Как-начать-разработку-в-open-source)
